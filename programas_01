@@ -1,5 +1,5 @@
 //Ejercicio_1
-
+ 
 print("nombre:" + "Ayman")
 print("apellidos:" + "Laouini Khalifa")
 
